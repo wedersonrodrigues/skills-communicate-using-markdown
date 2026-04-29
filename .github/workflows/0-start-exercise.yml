@@ -3,7 +3,7 @@ name: Step 0
 on:
   push:
     branches:
-      - main
+      - start-markdown
 
 permissions:
   contents: write
