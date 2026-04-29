@@ -1,13 +1,4 @@
-# Meu Primeiro Título em Markdown
-
-Olá! Este é um arquivo de teste para o laboratório do GitHub.
-
-## Coisas que gosto:
-* Programação
-* Café
-* Automação
-
-## Lista de tarefas:
-- [x] Criar repositório
-- [x] Criar arquivo Markdown
-- [ ] Finalizar o curso
+# Hello World
+## This is an `<h1>` header, which is the largest
+### This is an `<h2>` header
+#### This is an `<h6>` header, which is the smallest
